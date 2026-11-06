@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Logo Zenvid: vòng tròn xanh ngọc (gợi sự tĩnh lặng, "zen") với nút phát trắng ở giữa -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FF12B886"
+        android:pathData="M54,30a24,24 0,1 1,0 48a24,24 0,1 1,0 -48z" />
+    <path android:fillColor="#FFFFFFFF" android:pathData="M48,43L66,54L48,65Z" />
+    <path android:fillColor="#00000000" android:strokeColor="#6612B886" android:strokeWidth="2"
+        android:pathData="M54,25a29,29 0,1 1,0 58a29,29 0,1 1,0 -58z" />
+</vector>
